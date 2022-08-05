@@ -7,7 +7,7 @@ This application shows **how an IDEAL project configuration and package structur
 
 ### Getting started
 
-#### Download
+#### Download 1
 
 Download source code from [here](https://github.com/terasolunaorg/terasoluna-tourreservation/releases "here").
 Extract the zip file at any location of choice.
